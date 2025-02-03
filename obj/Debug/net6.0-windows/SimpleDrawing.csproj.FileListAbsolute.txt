@@ -1,0 +1,14 @@
+C:\project\c# Test\bin\Debug\net6.0-windows\SimpleDrawing.exe
+C:\project\c# Test\bin\Debug\net6.0-windows\SimpleDrawing.deps.json
+C:\project\c# Test\bin\Debug\net6.0-windows\SimpleDrawing.runtimeconfig.json
+C:\project\c# Test\bin\Debug\net6.0-windows\SimpleDrawing.dll
+C:\project\c# Test\bin\Debug\net6.0-windows\SimpleDrawing.pdb
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.AssemblyInfoInputs.cache
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.AssemblyInfo.cs
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.csproj.CoreCompileInputs.cache
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.dll
+C:\project\c# Test\obj\Debug\net6.0-windows\refint\SimpleDrawing.dll
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.pdb
+C:\project\c# Test\obj\Debug\net6.0-windows\SimpleDrawing.genruntimeconfig.cache
+C:\project\c# Test\obj\Debug\net6.0-windows\ref\SimpleDrawing.dll
